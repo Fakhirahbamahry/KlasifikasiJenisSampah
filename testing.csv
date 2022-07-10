@@ -1,0 +1,338 @@
+,filename,label,prediction
+0,485.png,Kaca,Kaca
+1,486.png,Kaca,Kaca
+2,487.png,Kaca,Kaca
+3,493.png,Kaca,Logam
+4,494.png,Kaca,Kaca
+5,495.png,Kaca,Kaca
+6,496.png,Kaca,Kaca
+7,501.png,Kaca,Kaca
+8,502.png,Kaca,Kaca
+9,503.png,Kaca,Kaca
+10,509.png,Kaca,Kaca
+11,510.png,Kaca,Kaca
+12,511.png,Kaca,Kaca
+13,516.png,Kaca,Kaca
+14,517.png,Kaca,Kaca
+15,518.png,Kaca,Kaca
+16,519.png,Kaca,Kaca
+17,525.png,Kaca,Plastik Lembaran
+18,526.png,Kaca,Kaca
+19,527.png,Kaca,Kaca
+20,532.png,Kaca,Kaca
+21,533.png,Kaca,Kaca
+22,534.png,Kaca,Plastik Lembaran
+23,535.png,Kaca,Plastik Lembaran
+24,541.png,Kaca,Kaca
+25,542.png,Kaca,Kaca
+26,543.png,Kaca,Kaca
+27,548.png,Kaca,Kaca
+28,549.png,Kaca,Kaca
+29,550.png,Kaca,Kaca
+30,551.png,Kaca,Kaca
+31,557.png,Kaca,Kaca
+32,558.png,Kaca,Kaca
+33,559.png,Kaca,Kaca
+34,564.png,Kaca,Kaca
+35,565.png,Kaca,Logam
+36,566.png,Kaca,Kaca
+37,567.png,Kaca,Logam
+38,573.png,Kaca,Kaca
+39,574.png,Kaca,Plastik
+40,575.png,Kaca,Logam
+41,580.png,Kaca,Kaca
+42,581.png,Kaca,Kaca
+43,582.png,Kaca,Logam
+44,583.png,Kaca,Kaca
+45,589.png,Kaca,Plastik
+46,590.png,Kaca,Plastik Lembaran
+47,591.png,Kaca,Logam
+48,596.png,Kaca,Kaca
+49,597.png,Kaca,Plastik
+50,598.png,Kaca,Kaca
+51,599.png,Kaca,Kaca
+52,605.png,Kaca,Kaca
+53,606.png,Kaca,Logam
+54,607.png,Kaca,Plastik
+55,612.png,Kaca,Kaca
+56,613.png,Kaca,Kaca
+57,614.png,Kaca,Logam
+58,615.png,Kaca,Plastik
+59,621.png,Kaca,Kaca
+60,622.png,Kaca,Kaca
+61,623.png,Kaca,Kaca
+62,629.png,Kaca,Kaca
+63,630.png,Kaca,Kaca
+64,631.png,Kaca,Plastik
+65,IMG_20220616_105514.png,Kaca,Kaca
+66,IMG_20220616_105600.png,Kaca,Kertas atau Kardus
+67,1.png,Kertas atau Kardus,Kertas atau Kardus
+68,104.png,Kertas atau Kardus,Kertas atau Kardus
+69,106.png,Kertas atau Kardus,Kertas atau Kardus
+70,112.png,Kertas atau Kardus,Kertas atau Kardus
+71,114.png,Kertas atau Kardus,Kertas atau Kardus
+72,120.png,Kertas atau Kardus,Kertas atau Kardus
+73,121.png,Kertas atau Kardus,Kertas atau Kardus
+74,122.png,Kertas atau Kardus,Kertas atau Kardus
+75,133.png,Kertas atau Kardus,Kertas atau Kardus
+76,134.png,Kertas atau Kardus,Kertas atau Kardus
+77,135.png,Kertas atau Kardus,Kertas atau Kardus
+78,142.png,Kertas atau Kardus,Kertas atau Kardus
+79,143.png,Kertas atau Kardus,Kertas atau Kardus
+80,149.png,Kertas atau Kardus,Kertas atau Kardus
+81,15.png,Kertas atau Kardus,Kertas atau Kardus
+82,150.png,Kertas atau Kardus,Kertas atau Kardus
+83,151.png,Kertas atau Kardus,Kertas atau Kardus
+84,157.png,Kertas atau Kardus,Kertas atau Kardus
+85,158.png,Kertas atau Kardus,Kertas atau Kardus
+86,165.png,Kertas atau Kardus,Kertas atau Kardus
+87,167.png,Kertas atau Kardus,Kertas atau Kardus
+88,17.png,Kertas atau Kardus,Plastik Lembaran
+89,173.png,Kertas atau Kardus,Kertas atau Kardus
+90,174.png,Kertas atau Kardus,Kertas atau Kardus
+91,175.png,Kertas atau Kardus,Kertas atau Kardus
+92,181.png,Kertas atau Kardus,Kertas atau Kardus
+93,183.png,Kertas atau Kardus,Kertas atau Kardus
+94,189.png,Kertas atau Kardus,Kertas atau Kardus
+95,190.png,Kertas atau Kardus,Logam
+96,191.png,Kertas atau Kardus,Kertas atau Kardus
+97,197.png,Kertas atau Kardus,Logam
+98,198.png,Kertas atau Kardus,Kertas atau Kardus
+99,199.png,Kertas atau Kardus,Kertas atau Kardus
+100,206.png,Kertas atau Kardus,Kertas atau Kardus
+101,207.png,Kertas atau Kardus,Kertas atau Kardus
+102,213.png,Kertas atau Kardus,Kertas atau Kardus
+103,214.png,Kertas atau Kardus,Kertas atau Kardus
+104,215.png,Kertas atau Kardus,Logam
+105,221.png,Kertas atau Kardus,Logam
+106,222.png,Kertas atau Kardus,Kertas atau Kardus
+107,23.png,Kertas atau Kardus,Kertas atau Kardus
+108,24.png,Kertas atau Kardus,Kertas atau Kardus
+109,31.png,Kertas atau Kardus,Kertas atau Kardus
+110,32.png,Kertas atau Kardus,Kertas atau Kardus
+111,33.png,Kertas atau Kardus,Kertas atau Kardus
+112,39.png,Kertas atau Kardus,Plastik Lembaran
+113,40.png,Kertas atau Kardus,Kertas atau Kardus
+114,41.png,Kertas atau Kardus,Kertas atau Kardus
+115,47.png,Kertas atau Kardus,Kertas atau Kardus
+116,49.png,Kertas atau Kardus,Kertas atau Kardus
+117,55.png,Kertas atau Kardus,Kertas atau Kardus
+118,56.png,Kertas atau Kardus,Kertas atau Kardus
+119,57.png,Kertas atau Kardus,Kertas atau Kardus
+120,64.png,Kertas atau Kardus,Kertas atau Kardus
+121,65.png,Kertas atau Kardus,Kertas atau Kardus
+122,72.png,Kertas atau Kardus,Kertas atau Kardus
+123,73.png,Kertas atau Kardus,Kertas atau Kardus
+124,79.png,Kertas atau Kardus,Kertas atau Kardus
+125,80.png,Kertas atau Kardus,Kertas atau Kardus
+126,81.png,Kertas atau Kardus,Kertas atau Kardus
+127,87.png,Kertas atau Kardus,Logam
+128,88.png,Kertas atau Kardus,Kertas atau Kardus
+129,9.png,Kertas atau Kardus,Kertas atau Kardus
+130,95.png,Kertas atau Kardus,Kertas atau Kardus
+131,96.png,Kertas atau Kardus,Kertas atau Kardus
+132,97.png,Kertas atau Kardus,Kertas atau Kardus
+133,IMG_20220616_113025.png,Kertas atau Kardus,Kertas atau Kardus
+134,IMG_20220616_113040.png,Kertas atau Kardus,Kertas atau Kardus
+135,IMG_20220616_113055.png,Kertas atau Kardus,Kertas atau Kardus
+136,224.png,Logam,Logam
+137,231.png,Logam,Logam
+138,235.png,Logam,Plastik
+139,236.png,Logam,Kaca
+140,240.png,Logam,Logam
+141,241.png,Logam,Logam
+142,244.png,Logam,Logam
+143,247.png,Logam,Logam
+144,249.png,Logam,Logam
+145,256.png,Logam,Plastik
+146,257.png,Logam,Logam
+147,260.png,Logam,Plastik
+148,265.png,Logam,Logam
+149,275.png,Logam,Logam
+150,276.png,Logam,Logam
+151,281.png,Logam,Logam
+152,282.png,Logam,Logam
+153,287.png,Logam,Logam
+154,289.png,Logam,Logam
+155,292.png,Logam,Plastik
+156,297.png,Logam,Logam
+157,299.png,Logam,Plastik
+158,309.png,Logam,Plastik Lembaran
+159,310.png,Logam,Logam
+160,317.png,Logam,Plastik
+161,319.png,Logam,Logam
+162,320.png,Logam,Logam
+163,330.png,Logam,Kertas atau Kardus
+164,331.png,Logam,Plastik Lembaran
+165,335.png,Logam,Logam
+166,338.png,Logam,Plastik Lembaran
+167,341.png,Logam,Kaca
+168,342.png,Logam,Logam
+169,347.png,Logam,Logam
+170,350.png,Logam,Logam
+171,355.png,Logam,Logam
+172,359.png,Logam,Logam
+173,360.png,Logam,Logam
+174,366.png,Logam,Logam
+175,380.png,Logam,Logam
+176,381.png,Logam,Logam
+177,382.png,Logam,Logam
+178,383.png,Logam,Kertas atau Kardus
+179,388.png,Logam,Plastik Lembaran
+180,390.png,Logam,Plastik Lembaran
+181,405.png,Logam,Logam
+182,406.png,Logam,Plastik
+183,407.png,Logam,Logam
+184,408.png,Logam,Logam
+185,413.png,Logam,Logam
+186,414.png,Logam,Logam
+187,417.png,Logam,Logam
+188,419.png,Logam,Logam
+189,426.png,Logam,Kaca
+190,432.png,Logam,Logam
+191,435.png,Logam,Kaca
+192,439.png,Logam,Logam
+193,444.png,Logam,Plastik
+194,445.png,Logam,Logam
+195,446.png,Logam,Logam
+196,447.png,Logam,Logam
+197,454.png,Logam,Logam
+198,455.png,Logam,Logam
+199,473.png,Logam,Plastik
+200,474.png,Logam,Kertas atau Kardus
+201,475.png,Logam,Plastik
+202,IMG_20220616_105202.png,Logam,Plastik
+203,IMG_20220616_105235.png,Logam,Plastik
+204,1003.png,Plastik,Logam
+205,1009.png,Plastik,Plastik
+206,1010.png,Plastik,Kaca
+207,1011.png,Plastik,Plastik
+208,1017.png,Plastik,Plastik
+209,1018.png,Plastik,Logam
+210,1026.png,Plastik,Plastik Lembaran
+211,1027.png,Plastik,Kaca
+212,1033.png,Plastik,Plastik
+213,1034.png,Plastik,Plastik
+214,1035.png,Plastik,Plastik
+215,1041.png,Plastik,Plastik Lembaran
+216,1049.png,Plastik,Plastik
+217,1050.png,Plastik,Plastik
+218,1051.png,Plastik,Plastik
+219,1057.png,Plastik,Plastik
+220,1058.png,Plastik,Plastik
+221,1059.png,Plastik,Plastik
+222,1067.png,Plastik,Plastik
+223,1073.png,Plastik,Logam
+224,1074.png,Plastik,Plastik
+225,1075.png,Plastik,Logam
+226,1081.png,Plastik,Kaca
+227,1082.png,Plastik,Kaca
+228,1090.png,Plastik,Plastik
+229,1098.png,Plastik,Plastik
+230,1099.png,Plastik,Plastik
+231,865.png,Plastik,Plastik
+232,866.png,Plastik,Plastik
+233,867.png,Plastik,Plastik
+234,875.png,Plastik,Plastik
+235,881.png,Plastik,Kaca
+236,882.png,Plastik,Plastik Lembaran
+237,883.png,Plastik,Kertas atau Kardus
+238,889.png,Plastik,Plastik
+239,890.png,Plastik,Plastik Lembaran
+240,898.png,Plastik,Plastik
+241,899.png,Plastik,Plastik
+242,905.png,Plastik,Kaca
+243,906.png,Plastik,Plastik
+244,907.png,Plastik,Plastik
+245,913.png,Plastik,Plastik
+246,921.png,Plastik,Plastik
+247,922.png,Plastik,Plastik
+248,923.png,Plastik,Plastik
+249,929.png,Plastik,Plastik
+250,930.png,Plastik,Plastik
+251,931.png,Plastik,Plastik
+252,939.png,Plastik,Plastik
+253,945.png,Plastik,Logam
+254,946.png,Plastik,Kaca
+255,947.png,Plastik,Plastik
+256,953.png,Plastik,Plastik
+257,954.png,Plastik,Plastik
+258,962.png,Plastik,Plastik
+259,963.png,Plastik,Plastik Lembaran
+260,969.png,Plastik,Plastik
+261,970.png,Plastik,Logam
+262,971.png,Plastik,Logam
+263,977.png,Plastik,Plastik
+264,985.png,Plastik,Logam
+265,986.png,Plastik,Logam
+266,987.png,Plastik,Plastik Lembaran
+267,993.png,Plastik,Plastik
+268,994.png,Plastik,Kaca
+269,995.png,Plastik,Plastik
+270,637.png,Plastik Lembaran,Plastik Lembaran
+271,638.png,Plastik Lembaran,Kertas atau Kardus
+272,639.png,Plastik Lembaran,Plastik Lembaran
+273,645.png,Plastik Lembaran,Kaca
+274,646.png,Plastik Lembaran,Kertas atau Kardus
+275,647.png,Plastik Lembaran,Plastik Lembaran
+276,653.png,Plastik Lembaran,Kaca
+277,655.png,Plastik Lembaran,Plastik Lembaran
+278,661.png,Plastik Lembaran,Plastik Lembaran
+279,662.png,Plastik Lembaran,Plastik Lembaran
+280,663.png,Plastik Lembaran,Plastik Lembaran
+281,669.png,Plastik Lembaran,Plastik Lembaran
+282,670.png,Plastik Lembaran,Plastik Lembaran
+283,671.png,Plastik Lembaran,Plastik Lembaran
+284,678.png,Plastik Lembaran,Kertas atau Kardus
+285,679.png,Plastik Lembaran,Plastik Lembaran
+286,685.png,Plastik Lembaran,Plastik Lembaran
+287,686.png,Plastik Lembaran,Plastik Lembaran
+288,687.png,Plastik Lembaran,Plastik Lembaran
+289,693.png,Plastik Lembaran,Plastik Lembaran
+290,694.png,Plastik Lembaran,Plastik Lembaran
+291,701.png,Plastik Lembaran,Plastik Lembaran
+292,702.png,Plastik Lembaran,Plastik Lembaran
+293,703.png,Plastik Lembaran,Plastik Lembaran
+294,709.png,Plastik Lembaran,Plastik Lembaran
+295,710.png,Plastik Lembaran,Logam
+296,711.png,Plastik Lembaran,Plastik Lembaran
+297,717.png,Plastik Lembaran,Plastik Lembaran
+298,719.png,Plastik Lembaran,Plastik Lembaran
+299,725.png,Plastik Lembaran,Plastik Lembaran
+300,726.png,Plastik Lembaran,Plastik Lembaran
+301,727.png,Plastik Lembaran,Plastik Lembaran
+302,733.png,Plastik Lembaran,Plastik Lembaran
+303,734.png,Plastik Lembaran,Plastik Lembaran
+304,735.png,Plastik Lembaran,Plastik Lembaran
+305,742.png,Plastik Lembaran,Plastik Lembaran
+306,743.png,Plastik Lembaran,Plastik Lembaran
+307,749.png,Plastik Lembaran,Plastik Lembaran
+308,750.png,Plastik Lembaran,Plastik Lembaran
+309,751.png,Plastik Lembaran,Plastik Lembaran
+310,757.png,Plastik Lembaran,Plastik Lembaran
+311,758.png,Plastik Lembaran,Plastik Lembaran
+312,765.png,Plastik Lembaran,Plastik Lembaran
+313,766.png,Plastik Lembaran,Logam
+314,767.png,Plastik Lembaran,Plastik Lembaran
+315,773.png,Plastik Lembaran,Plastik Lembaran
+316,774.png,Plastik Lembaran,Kertas atau Kardus
+317,775.png,Plastik Lembaran,Plastik Lembaran
+318,781.png,Plastik Lembaran,Plastik Lembaran
+319,783.png,Plastik Lembaran,Plastik Lembaran
+320,789.png,Plastik Lembaran,Plastik Lembaran
+321,790.png,Plastik Lembaran,Logam
+322,791.png,Plastik Lembaran,Plastik Lembaran
+323,797.png,Plastik Lembaran,Plastik Lembaran
+324,798.png,Plastik Lembaran,Plastik Lembaran
+325,799.png,Plastik Lembaran,Plastik Lembaran
+326,829.png,Plastik Lembaran,Plastik Lembaran
+327,830.png,Plastik Lembaran,Kaca
+328,831.png,Plastik Lembaran,Logam
+329,837.png,Plastik Lembaran,Plastik
+330,838.png,Plastik Lembaran,Plastik Lembaran
+331,839.png,Plastik Lembaran,Plastik Lembaran
+332,845.png,Plastik Lembaran,Plastik Lembaran
+333,847.png,Plastik Lembaran,Plastik Lembaran
+334,853.png,Plastik Lembaran,Kaca
+335,863.png,Plastik Lembaran,Kertas atau Kardus
+336,IMG_20220616_104347.png,Plastik Lembaran,Plastik Lembaran
