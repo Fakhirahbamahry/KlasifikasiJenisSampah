@@ -1,0 +1,7 @@
+Untuk Data, Library, dan Keperluan yang tidak dapat diupload di github 
+dapat anda akses pada link berikut ini :
+https://intip.in/KlasifikasiJenisSampah
+Cara : 
+- Minta akses ke pemilik link gdrive
+- Download Semua File dan Ekstrak kedalam folder yg berisi file github 
+agar program bisa tersambung
